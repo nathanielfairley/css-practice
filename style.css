@@ -1,1 +1,39 @@
+.card {
+  background-color: #FF6F61;
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid black;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+}
+
+#highlight {
+  background-color: #6B5B95;
+  /* other styles */
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid black;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.hover-box {
+  background-color: #88B04B;
+  /* other styles */
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid black;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+}
+
+.hover-box:hover {
+  background0clor: #F7CAC9
+}
 
